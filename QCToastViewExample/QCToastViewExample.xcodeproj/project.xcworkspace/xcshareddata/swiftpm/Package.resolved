@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "QCToastView",
+        "repositoryURL": "https://github.com/krunalVanwari/QCToastView.git",
+        "state": {
+          "branch": "main",
+          "revision": "bdea71530e7932f64297cdad1532d765e748487c",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
